@@ -1,4 +1,4 @@
-ii#include "main.h"
+#include "main.h"
 
 /**
  * _printf - produces output according to a format
@@ -44,4 +44,4 @@ int _printf(const char *format, ...)
 	_putchar(-1);
 	va_end(arguments);
 	return (count);
-}
+}/*by davidinmichael and HaryorAji*/

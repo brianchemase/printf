@@ -1,6 +1,6 @@
 #include "main.h"
 
-[2;2R[>77;30006;0c]10;rgb:bfbf/bfbf/bfbf\]11;rgb:0000/0000/0000\/**
+/**
  * print_bigS - Non printable characters
  * (0 < ASCII value < 32 or >= 127) are
  * printed this way: \x, followed by the ASCII code
@@ -106,4 +106,3 @@ int print_percent(va_list l, flags_t *f)
 	(void)f;
 	return (_putchar('%'));
 }
-

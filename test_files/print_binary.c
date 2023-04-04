@@ -16,4 +16,4 @@ int print_binary(int number){
     }
 
     return (count);
-}
+}/*davidinmichael and HaryorAji*/

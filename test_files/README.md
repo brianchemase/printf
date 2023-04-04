@@ -1,1 +1,1 @@
-this is the test file for print f
+This is the readme file for this directory
